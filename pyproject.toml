@@ -8,7 +8,6 @@ version = "1.1.80"
 description = "Job scraper for LinkedIn, Indeed, Glassdoor, ZipRecruiter & Bayt"
 authors = ["Aaron Jevil Nazareth <jevil25@gmail.com>"]
 homepage = "https://github.com/jevil25/JobSpy"
-readme = "README.md"
 keywords = [ "jobs-scraper", "linkedin", "indeed", "glassdoor", "ziprecruiter", "bayt", "naukri"]
 [[tool.poetry.packages]]
 include = "jobspy"
